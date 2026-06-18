@@ -116,6 +116,13 @@ A short path for someone new to all of this:
 3. **Add the palace.** Want your shipped work to accumulate into something you can walk through? Add the [mind-palace-agent-skills](https://github.com/frankxai/mind-palace-agent-skills) and run the **ingest → witness → grow** loop weekly.
 4. **Read canon when you need it.** When an agent asks about your *attention* or *belief* state and you want the precise definition, the [12-module model](https://github.com/frankxai/mind-intelligence-systems/tree/main/models/human-mind) is the source of truth. Read it on demand, not up front.
 
+## Diagrams
+
+Visual maps of the swarm live in [`docs/diagrams/`](docs/diagrams/) (open in a browser):
+the [layered architecture](docs/diagrams/mind-intelligence-systems-architecture.html),
+the [researcher UX journey](docs/diagrams/research-ux-journey.html), and the
+[agent exploration path](docs/diagrams/agent-exploration.excalidraw).
+
 ## Contributing
 
 PRs welcome — add a repo, a skill, or a related ecosystem that genuinely belongs. Keep links live, keep claims verifiable, and say in one clause why an entry earns a reader's time. One entry per PR; match the format of the section you're adding to. Status must be honest: `planned` is not `live`. And the hard line holds — nothing clinical or diagnostic gets in. See the [contribution guidelines](CONTRIBUTING.md).
