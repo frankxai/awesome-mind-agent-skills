@@ -1,0 +1,15 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Node / tooling (if link-checkers or linters get added)
+node_modules/
+.cache/
+
+# Local env / secrets
+.env
+.env.*
