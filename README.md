@@ -7,7 +7,25 @@
 
 The thesis in one line: a mind is not one thing — it's attention, memory, emotion, belief, and nine other constructs that interact. The interesting work isn't building one monolithic "mind app"; it's modeling those constructs cleanly, then composing agents and skills that read and structure your own thinking against them. This list is the map of the systems that do that.
 
-One discipline runs through everything here: these systems **model** a mind, they never **diagnose** one. Observation, interpretation, and hypothesis stay separate from anything clinical. If you want the deep version of that rule, it lives in [agentic-mind-os](https://github.com/frankxai/agentic-mind-os).
+These systems **model** a mind. They never **diagnose** one. Observation, interpretation, and hypothesis stay separate from anything clinical.
+
+<!-- earned-skill-index:2026-08-30 -->
+
+## Earned skills (start here)
+
+Third-party work first. The list remains useful if every frankxai link is removed.
+
+| Pack | Job |
+| --- | --- |
+| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Local notes / vault workflows |
+| [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | Plans that survive compaction |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | Memory layer for agents (self-host; review data boundary) |
+| [obra/superpowers](https://github.com/obra/superpowers) | Honest planning and verification |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Scan a skill before it runs |
+
+No clinical claims. Scan before install. Hub safety: [QUALITY-AND-SAFETY.md](https://github.com/frankxai/awesome-hermes-agent-skills/blob/main/docs/QUALITY-AND-SAFETY.md).
+
+FrankX mind OS (optional, after the third-party table): [agentic-mind-os](https://github.com/frankxai/agentic-mind-os).
 
 ## Contents
 
