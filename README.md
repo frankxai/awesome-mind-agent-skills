@@ -58,7 +58,7 @@ Every repo in the swarm, grouped by family. Naming doctrine: **OS** = lived (you
 | Repo | Role | Status |
 |---|---|---|
 | [agentic-mind-os](https://github.com/frankxai/agentic-mind-os) | The personal mind OS lived daily — a local-first vault, a fleet of personal agents, and a weekly review loop built on the canonical model. | live |
-| [starlight-mind-os-pro](https://github.com/frankxai/starlight-mind-os-pro) | Premium distribution of the lived OS — guided onboarding, dashboards, and workshop material for people who want the system without assembling it. | live |
+| starlight-mind-os-pro | Premium distribution of the lived OS. Private / not a public GitHub repo. | private |
 
 ### Discovery
 
@@ -71,7 +71,7 @@ Every repo in the swarm, grouped by family. Naming doctrine: **OS** = lived (you
 | Repo | Role | Status |
 |---|---|---|
 | [mind-palace-agent-skills](https://github.com/frankxai/mind-palace-agent-skills) | The Blessing-Protocol skills — ingest a builder's GitHub, witness the week, and grow a palace from what is whole. | live |
-| [frankx-mind-palace](https://github.com/frankxai/frankx-mind-palace) | Frank's own blessed work as data — the reference instance the palace skills produce. | live |
+| frankx-mind-palace | Reference palace instance. Private / not a public GitHub repo. | private |
 
 ### Research
 
