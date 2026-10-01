@@ -5,7 +5,7 @@
 
 > A curated guide to agentic systems, skills, and resources for understanding, structuring, and extending the human mind — the front door to the Mind Intelligence ecosystem.
 
-The thesis in one line: a mind is not one thing — it's attention, memory, emotion, belief, and nine other constructs that interact. The interesting work isn't building one monolithic "mind app"; it's modeling those constructs cleanly, then composing agents and skills that read and structure your own thinking against them. This list is the map of the systems that do that.
+The thesis in one line: a mind is not one thing — it's attention, memory, emotion, belief, and eight other constructs that interact. The interesting work isn't building one monolithic "mind app"; it's modeling those constructs cleanly, then composing agents and skills that read and structure your own thinking against them. This list is the map of the systems that do that.
 
 These systems **model** a mind. They never **diagnose** one. Observation, interpretation, and hypothesis stay separate from anything clinical.
 
