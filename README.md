@@ -73,14 +73,14 @@ Every repo in the swarm, grouped by family. Naming doctrine: **OS** = lived (you
 | [mind-palace-agent-skills](https://github.com/frankxai/mind-palace-agent-skills) | The Blessing-Protocol skills — ingest a builder's GitHub, witness the week, and grow a palace from what is whole. | live |
 | frankx-mind-palace | Reference palace instance. Private / not a public GitHub repo. | private |
 
-### Research
+### Research & Due Diligence
 
 | Repo | Role | Status |
 |---|---|---|
-| [research-intelligence-os](https://github.com/frankxai/research-intelligence-os) | A reusable research runtime — the engine other verticals run their literature work through. | planned |
-| [research-intelligence-systems](https://github.com/frankxai/research-intelligence-systems) | The cross-domain research portfolio that sits above the individual verticals. | planned |
-| [psychology-research-intelligence-system](https://github.com/frankxai/psychology-research-intelligence-system) | The psychology vertical — research that feeds the human-mind model evidence. | planned |
-| [neuroscience-research-intelligence-system](https://github.com/frankxai/neuroscience-research-intelligence-system) | The neuroscience vertical — the biological substrate behind the constructs. | planned |
+| [research-intelligence-os](https://github.com/frankxai/research-intelligence-os) | High-velocity agentic execution runtime, evaluation engine, and verification contracts. | live |
+| [research-intelligence-systems](https://github.com/frankxai/research-intelligence-systems) | Market intelligence, competitive due diligence, and strategic claim graphs. | live |
+| [psychology-research-intelligence-system](https://github.com/frankxai/psychology-research-intelligence-system) | Founder psychology, consumer behavior modeling, and cognitive decision bias mitigation. | live |
+| [neuroscience-research-intelligence-system](https://github.com/frankxai/neuroscience-research-intelligence-system) | Biometric flow state analytics (EEG/MEG), MNE pipelines, and frontier deep-tech scouting. | live |
 
 ## By cognitive construct
 
