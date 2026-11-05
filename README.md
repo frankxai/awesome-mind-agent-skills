@@ -5,6 +5,8 @@
 
 > A curated guide to agentic systems, skills, and resources for understanding, structuring, and extending the human mind — the front door to the Mind Intelligence ecosystem.
 
+This repository is a link list: it contains no skills itself; every skill below lives in the linked repository.
+
 The thesis in one line: a mind is not one thing — it's attention, memory, emotion, belief, and eight other constructs that interact. The interesting work isn't building one monolithic "mind app"; it's modeling those constructs cleanly, then composing agents and skills that read and structure your own thinking against them. This list is the map of the systems that do that.
 
 These systems **model** a mind. They never **diagnose** one. Observation, interpretation, and hypothesis stay separate from anything clinical.
@@ -107,16 +109,21 @@ The skills that exist in the swarm today, plus the planned set in the lived OS. 
 
 ### Blessing Protocol (mind-palace-agent-skills) — live
 
-The four skills that turn a week of work into a memory palace. The loop: **ingest → witness → grow**, with an onboarding step to make any repo blessable.
+Four of its 13 skills that turn a week of work into a memory palace. The loop: **ingest → witness → grow**, with an onboarding step to make any repo blessable. mind-palace-agent-skills ships 13 skills in two suites; see its [catalog](https://github.com/frankxai/mind-palace-agent-skills/blob/main/docs/CATALOG.md).
 
 - [`github-bless`](https://github.com/frankxai/mind-palace-agent-skills/blob/main/skills/github-bless/SKILL.md) — **ingest.** Rolls the week's commits and merged PRs across repos and connectors into a candidate set, and names every gap. Reads the week; blesses nothing itself.
 - [`weekly-blessing`](https://github.com/frankxai/mind-palace-agent-skills/blob/main/skills/weekly-blessing/SKILL.md) — **witness.** The Sunday ritual: a six-section entry that ratifies what is whole, names what to ignore for seven days, and surfaces the one path forward. Invoked, never auto-fired.
 - [`palace-build`](https://github.com/frankxai/mind-palace-agent-skills/blob/main/skills/palace-build/SKILL.md) — **grow.** Turns the blessing ledger into `rooms.json` plus a portable, build-step-free HTML palace that grows each week.
 - [`blessing-standard`](https://github.com/frankxai/mind-palace-agent-skills/blob/main/skills/blessing-standard/SKILL.md) — **onboard.** Scaffolds the five Blessing Protocol files (`soul.md`, `agent.md`, `skills.md`, `palace.md`, `bless.md`) into any repo and fills them from what the repo already is.
 
-### Mind-skills (agentic-mind-os) — planned
+### Mind-skills (agentic-mind-os) — live
 
 The personal mind OS ships a set of **mind-skills** its agent runtime auto-activates — the consolidation half of the loop, anchored to the 12 constructs. They live alongside the [personal agent cards](https://github.com/frankxai/agentic-mind-os) (cartographer, weekly-reviewer, focus coach, recall builder) and the `/map-mind` + `/review-week` commands. See [agentic-mind-os/skills](https://github.com/frankxai/agentic-mind-os).
+
+- [`active-recall-generator`](https://github.com/frankxai/agentic-mind-os/blob/main/skills/active-recall-generator/SKILL.md) — Generates active recall prompts from the week's notes and work.
+- [`daily-priming-ritual`](https://github.com/frankxai/agentic-mind-os/blob/main/skills/daily-priming-ritual/SKILL.md) — Morning orientation and focus priming ritual.
+- [`distill-to-atomic-notes`](https://github.com/frankxai/agentic-mind-os/blob/main/skills/distill-to-atomic-notes/SKILL.md) — Distills raw thinking into structured atomic notes.
+- [`weekly-consolidation-review`](https://github.com/frankxai/agentic-mind-os/blob/main/skills/weekly-consolidation-review/SKILL.md) — Weekly consolidation and memory review across constructs.
 
 ## Related ecosystems
 
